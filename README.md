@@ -2,7 +2,7 @@
 
 ## Team Name & Members
 **Team:** Beyond Terra  
-**Members:** Donakshi Jh, [Member 2], [Member 3]  
+**Members:** Khiyati Sharma, Kartik Gaur, Aprajita Sharma
 
 ---
 
