@@ -16,8 +16,7 @@ Beyond Terra is an AI-powered tool designed to help researchers and enthusiasts 
 
 ---
 
-## Demo Video / Slide Link
-🎥 **Video Demo:** [Insert YouTube Link]  
+## Slide Link
 📄 **Slide Deck:** [Insert Google Drive / OneDrive Link]  
 
 ---
