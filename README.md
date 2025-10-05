@@ -1,4 +1,5 @@
 # Beyond Terra – Hunting Exoplanets with AI
+(for link of this app refer to the bottom of this page)
 
 ## Team Name & Members
 **Team:** Beyond Terra  
