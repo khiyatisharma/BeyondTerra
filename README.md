@@ -46,7 +46,7 @@ Beyond Terra is an AI-powered tool designed to help researchers and enthusiasts 
 - **User Experience Improvements:** Add guided explanations for beginners and interactive tutorials.  
 - **Open-Source Contribution:** Make the tool fully open-source so researchers and enthusiasts can contribute and improve it.  
 - **Space Impact:** Expand the app to other datasets (e.g., TESS, JWST) to accelerate exoplanet discovery worldwide.  
-\
+
 # Run the Streamlit app
 [streamlit run app.py
 ](https://beyondterra.streamlit.app/)
