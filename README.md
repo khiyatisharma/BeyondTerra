@@ -1,5 +1,6 @@
 # Beyond Terra – Hunting Exoplanets with AI
 (for link of this app refer to the bottom of this page)
+
 Click here to checkout the demo video: https://drive.google.com/file/d/1Jde7AB81xBEck1nbezhHnB95Y2rN-4EX/view?usp=sharing
 
 ## Team Name & Members
